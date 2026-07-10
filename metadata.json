@@ -1,0 +1,6 @@
+{
+  "name": "TouchLife",
+  "description": "Nigeria's first decentralized emergency rescue app containing a hands-free Vocal First-Aid Coach for bystanders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
